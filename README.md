@@ -1,5 +1,5 @@
 ## Terraform State Template
-This repo is a template for creating remote backends for terraform files
+This repo is a template for creating remote S3 backends for terraform files
 
 ## Instructions
 In variables.tfvars, change the name of bucket_name and table_name as desired, note however that "bucket_name", the name of your S3 bucket, has to be globally unique, so you might not get your choice of name. Once done, run
