@@ -1,4 +1,4 @@
-## Terraform State Template
+## Remote Terraform State Template
 This repo is a template for creating remote S3 backends for terraform files
 
 ## Instructions
